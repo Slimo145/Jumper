@@ -1,3 +1,4 @@
 1. More power-ups
 2. Different enemies
 3. Different cloud speed
+4. Platform spawn
